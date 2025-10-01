@@ -1297,7 +1297,7 @@ margin-top:-5px;
 }.program2{
   margin-top:-20px;
 }.program2 h2{
-  margin-bottom:15px;
+  margin-bottom:5px;
 
 }
 
@@ -1358,7 +1358,7 @@ margin-top:-5px;
 }.program2{
   margin-top:2px;
 }.program3{
-  margin-top:-540px;
+  margin-top:-550px;
 }.program3 p{
   margin-top:-30px;
 }
@@ -1373,10 +1373,7 @@ margin-top:-5px;
   text-transform: uppercase;
 }
 
-/* Paragraph styling */
-.program1 p, .program2 p {
-  margin: 0;
-}
+
 
 /* Make whole card clickable */
 .Eng-subjects, .Off-subjects {
@@ -3524,7 +3521,6 @@ font-size: 16px;
 
 
 
-
   
 
 
@@ -3545,3 +3541,4 @@ font-size: 16px;
 
 
    
+
