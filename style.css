@@ -1627,7 +1627,7 @@ display: flex;
 
 }.collBakground {
     width: 100vw; 
-    height:60vh; 
+    height:160vh; 
     background-image: url('images/collBack3.png');
    background-size:100% auto; 
     background-position: center;
@@ -3584,3 +3584,4 @@ font-size: 16px;
 
 
    
+
