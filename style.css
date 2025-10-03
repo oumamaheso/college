@@ -1627,7 +1627,7 @@ display: flex;
 
 }.collBakground {
     width: 100vw; 
-    height:160vh; 
+    height:60vh; 
     background-image: url('images/collBack3.png');
    background-size:100% auto; 
     background-position: center;
@@ -1645,7 +1645,7 @@ display: flex;
 }.dropdown {
     position: relative;
     display: inline-block;
-    margin-top:360px;
+    margin-top:160px;
    
 }.dropbtn {
     background-color:black;
@@ -3584,5 +3584,3 @@ font-size: 16px;
 
 
    
-
-
